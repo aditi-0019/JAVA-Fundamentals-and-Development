@@ -1,3 +1,4 @@
+package functions;
 public class firstprog {
     public static void main(String[] args){
         // Functions in JAVA
