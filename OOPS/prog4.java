@@ -56,7 +56,7 @@ public class prog4 {
         this.age=age;
         this.rollNum=rollNum;
         */
-        this(name,age,0,"Unknown");
+        this(name,age,rollNum,"Unknown");
     }
     // In above we have chained the constructors ..but the output would be same in both the cases... we're  getting the output by the last constructor where all the parameters is passed 
     Student4(String name ,int age,int rollNum,String College){
