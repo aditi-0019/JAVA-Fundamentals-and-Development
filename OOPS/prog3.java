@@ -11,8 +11,9 @@ public class prog3 {
         System.out.println(s1.age);
         System.out.println(s1.rollNo);
         System.out.println(s1.college);
-
-        Student3 s2=new Student3();  //if we remove the default constructor from this code then this linw will give the error as already one parameterized constructor has been passed then java cannot create the default constructor by itself 
+    
+        Student3 s2=new Student3();  //if we remove the default constructor from this code then this linw will give the error as already one parameterized constructor has been passed then java cannot create the default constructor by itself
+         System.out.println(s2.rollNo); // 0 default values assigned 
     } 
 }
 
