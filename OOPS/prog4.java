@@ -16,6 +16,7 @@ public class prog4 {
        System.out.println(s3.name);     //Chhavi
        System.out.println(s4.age);      //25
        System.out.println(s5.rollNum);  //123
+       System.out.println(s2.age); //0
 
 
      }
