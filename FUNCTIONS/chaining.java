@@ -1,4 +1,4 @@
-package functions;
+
 public class chaining {
 
     public static void main(String[] args ){
